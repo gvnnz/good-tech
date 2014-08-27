@@ -11,3 +11,4 @@ Interesting technologies.
 * PerfBar: JS benchmarks - https://github.com/lafikl/perfBar
 * RequireJS: asynchronous module loader - http://requirejs.org/
 * Jquery.smoothState: smooth transitions - https://github.com/weblinc/jquery.smoothState.js
+* Async.js: functions for working with asynchronous JavaScript - https://github.com/caolan/async
