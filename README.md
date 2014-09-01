@@ -18,3 +18,10 @@ Interesting technologies.
 ## CSS
 
 * Pure: responsive CSS modules - http://purecss.io
+
+## Testing 
+
+* Locust: open source load testing tool - http://locust.io/
+* FunkLoad: functional and load web tester - http://funkload.nuxeo.org/
+* Apache Benchmark - http://httpd.apache.org/docs/2.2/programs/ab.html
+* JMeter: functional behavior and performance - http://jmeter.apache.org/
