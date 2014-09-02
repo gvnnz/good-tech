@@ -27,3 +27,4 @@ Interesting technologies.
 * FunkLoad: functional and load web tester - http://funkload.nuxeo.org/
 * Apache Benchmark - http://httpd.apache.org/docs/2.2/programs/ab.html
 * JMeter: functional behavior and performance - http://jmeter.apache.org/
+* Port25 email scanner: email authentication results and SpamAssassin score -  http://www.port25.com/support/authentication-center/
