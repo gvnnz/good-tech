@@ -14,6 +14,7 @@ Interesting technologies.
 * Async.js: functions for working with asynchronous JavaScript - https://github.com/caolan/async
 * Phaser: 2D game framework for HTML5 games - http://phaser.io/
 * P2.js: 2D physics library - http://schteppe.github.io/p2.js/
+* Spin.js: beautiful loading spinners - http://fgnass.github.io/spin.js/
 
 ## CSS
 
