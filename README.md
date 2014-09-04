@@ -16,6 +16,7 @@ Interesting technologies.
 * P2.js: 2D physics library - http://schteppe.github.io/p2.js/
 * Spin.js: beautiful loading spinners - http://fgnass.github.io/spin.js/
 * Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
+* Three.js: JavaScript 3D library - http://threejs.org/
 
 ## CSS
 
