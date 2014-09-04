@@ -17,6 +17,7 @@ Interesting technologies.
 * Spin.js: beautiful loading spinners - http://fgnass.github.io/spin.js/
 * Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
 * Three.js: JavaScript 3D library - http://threejs.org/
+* CreateJS: - suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
 
 ## CSS
 
