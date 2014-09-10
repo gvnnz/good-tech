@@ -32,3 +32,7 @@ Interesting technologies.
 * JMeter: functional behavior and performance - http://jmeter.apache.org/
 * Port25 email scanner: email authentication results and SpamAssassin score -  http://www.port25.com/support/authentication-center/
 * Travis.ci: continuous integration service - https://travis-ci.org/
+
+## Deploy
+
+* chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
