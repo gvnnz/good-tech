@@ -33,7 +33,8 @@ Interesting technologies.
 * Port25 email scanner: email authentication results and SpamAssassin score -  http://www.port25.com/support/authentication-center/
 * Travis.ci: continuous integration service - https://travis-ci.org/
 
-## Deploy
+## Deploy, dev
 
 * chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
-* vagrant: https://www.vagrantup.com/
+* vagrant - https://www.vagrantup.com/
+* newrelic - http://newrelic.com/
