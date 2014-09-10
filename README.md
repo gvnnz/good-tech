@@ -36,3 +36,4 @@ Interesting technologies.
 ## Deploy
 
 * chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
+* vagrant: https://www.vagrantup.com/
