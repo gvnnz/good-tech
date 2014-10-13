@@ -18,7 +18,11 @@ Interesting technologies.
 * Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
 * Three.js: JavaScript 3D library - http://threejs.org/
 * CreateJS: suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
-* Webfontloader:  web font loading tool - https://github.com/typekit/webfontloader
+* Webfontloader:web font loading tool - https://github.com/typekit/webfontloader
+
+## Hosting
+
+* Imgix: hosted imaging infrastructure - http://www.imgix.com/
 
 ## CSS
 
