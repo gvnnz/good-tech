@@ -19,6 +19,7 @@ Interesting technologies.
 * Three.js: JavaScript 3D library - http://threejs.org/
 * CreateJS: suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
 * Webfontloader:web font loading tool - https://github.com/typekit/webfontloader
+* Xdomain: a CORS alternative - https://github.com/jpillora/xdomain
 
 ## Hosting
 
