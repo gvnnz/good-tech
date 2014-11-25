@@ -42,6 +42,7 @@ Interesting technologies.
 * Travis.ci: continuous integration service - https://travis-ci.org/
 * RWDPerf: performance testing for Responsive web design websites - https://github.com/lafikl/RWDPerf
 * Catch: C++ framework for unit-tests - https://github.com/philsquared/Catch
+* Saucelabs: automated testing in the cloud for CI - https://saucelabs.com/
 
 ## Deploy, dev
 
