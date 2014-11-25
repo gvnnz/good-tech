@@ -49,3 +49,8 @@ Interesting technologies.
 * chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
 * vagrant - https://www.vagrantup.com/
 * newrelic - http://newrelic.com/
+
+## Java
+
+* Spring Boot - http://projects.spring.io/spring-boot/
+* Activiti - Workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
