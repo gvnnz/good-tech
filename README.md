@@ -17,6 +17,7 @@ Interesting technologies.
 * Spin.js: beautiful loading spinners - http://fgnass.github.io/spin.js/
 * Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
 * Three.js: JavaScript 3D library - http://threejs.org/
+* Moment.js: dates in javascript - http://momentjs.com/
 * CreateJS: suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
 * Webfontloader:web font loading tool - https://github.com/typekit/webfontloader
 * Xdomain: a CORS alternative - https://github.com/jpillora/xdomain
@@ -28,6 +29,8 @@ Interesting technologies.
 ## CSS
 
 * Pure: responsive CSS modules - http://purecss.io
+* Bootstrap: frontend framework - http://getbootstrap.com/
+* Foundation: frontend framework - http://foundation.zurb.com/
 
 ## Testing 
 
