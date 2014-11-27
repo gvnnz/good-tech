@@ -43,6 +43,7 @@ Interesting technologies.
 * RWDPerf: performance testing for Responsive web design websites - https://github.com/lafikl/RWDPerf
 * Catch: C++ framework for unit-tests - https://github.com/philsquared/Catch
 * Saucelabs: automated testing in the cloud for CI - https://saucelabs.com/
+* Zombie.js: headless browser testing using node.js - https://github.com/assaf/zombie
 
 ## Deploy, dev
 
