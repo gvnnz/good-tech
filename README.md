@@ -30,6 +30,7 @@ Interesting technologies.
 
 * Pure: responsive CSS modules - http://purecss.io
 * Bootstrap: frontend framework - http://getbootstrap.com/
+* Bootstrap-sass: Bootstrap with SASS support - https://github.com/twbs/bootstrap-sass
 * Foundation: frontend framework - http://foundation.zurb.com/
 * Clippy: CSS clip generator - http://bennettfeely.com/clippy/
 
