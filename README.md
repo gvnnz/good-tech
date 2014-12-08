@@ -63,3 +63,6 @@ Interesting technologies.
 
 * CSSstats: CSS insights - http://cssstats.com/
 
+## Audio
+
+* Imtranslator: text-to-speech app - http://imtranslator.net/translate-and-speak/
