@@ -67,3 +67,8 @@ Interesting technologies.
 
 * Imtranslator: text-to-speech app - http://imtranslator.net/translate-and-speak/
 * Ispeech - text-to-speech app - http://www.ispeech.org/text.to.speech
+
+
+## Frameworks
+
+* Flakes: - Admin UI & template framework - http://getflakes.com/
