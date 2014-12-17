@@ -33,6 +33,7 @@ Interesting technologies.
 * Bootstrap-sass: Bootstrap with SASS support - https://github.com/twbs/bootstrap-sass
 * Foundation: frontend framework - http://foundation.zurb.com/
 * Clippy: CSS clip generator - http://bennettfeely.com/clippy/
+* Susy: Responsive layout toolkit for Sass - https://github.com/ericam/susy/
 
 ## Testing 
 
