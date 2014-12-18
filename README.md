@@ -21,6 +21,7 @@ Interesting technologies.
 * CreateJS: suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
 * Webfontloader:web font loading tool - https://github.com/typekit/webfontloader
 * Xdomain: a CORS alternative - https://github.com/jpillora/xdomain
+* D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 
 ## Hosting
 
