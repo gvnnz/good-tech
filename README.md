@@ -53,6 +53,7 @@ Interesting technologies.
 * chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
 * vagrant - https://www.vagrantup.com/
 * newrelic - http://newrelic.com/
+* packer: create identical machine images for multiple platforms - https://www.packer.io/
 
 ## Java
 
