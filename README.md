@@ -24,6 +24,7 @@ Interesting technologies.
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
 * Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
+* Angular-translate: i18n in your Angular apps, made easy - https://github.com/angular-translate/angular-translate
 
 ## Hosting
 
