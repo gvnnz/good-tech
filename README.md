@@ -22,6 +22,7 @@ Interesting technologies.
 * Webfontloader:web font loading tool - https://github.com/typekit/webfontloader
 * Xdomain: a CORS alternative - https://github.com/jpillora/xdomain
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
+* Socket.io: real-time bidirectional event-based communication - http://socket.io/
 
 ## Hosting
 
