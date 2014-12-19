@@ -23,6 +23,7 @@ Interesting technologies.
 * Xdomain: a CORS alternative - https://github.com/jpillora/xdomain
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
+* Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
 
 ## Hosting
 
