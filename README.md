@@ -19,7 +19,7 @@ Interesting technologies.
 * Three.js: JavaScript 3D library - http://threejs.org/
 * Moment.js: dates in javascript - http://momentjs.com/
 * CreateJS: suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
-* Webfontloader:web font loading tool - https://github.com/typekit/webfontloader
+* Webfontloader: web font loading tool - https://github.com/typekit/webfontloader
 * Xdomain: a CORS alternative - https://github.com/jpillora/xdomain
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
@@ -52,10 +52,10 @@ Interesting technologies.
 
 ## Deploy, dev
 
-* chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
-* vagrant - https://www.vagrantup.com/
-* newrelic - http://newrelic.com/
-* packer: create identical machine images for multiple platforms - https://www.packer.io/
+* Chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
+* Vagrant - https://www.vagrantup.com/
+* Newrelic - http://newrelic.com/
+* Packer: create identical machine images for multiple platforms - https://www.packer.io/
 
 ## Java
 
