@@ -74,6 +74,10 @@ Interesting technologies.
 * Imtranslator: text-to-speech app - http://imtranslator.net/translate-and-speak/
 * Ispeech - text-to-speech app - http://www.ispeech.org/text.to.speech
 
+# Video
+
+* Unsplash: free (do whatever you want) high-resolution photos - https://unsplash.com/
+
 ## Frameworks
 
 * Flakes: - Admin UI & template framework - http://getflakes.com/
