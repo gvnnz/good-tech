@@ -25,6 +25,7 @@ Interesting technologies.
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
 * Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
 * Angular-translate: i18n in your Angular apps, made easy - https://github.com/angular-translate/angular-translate
+* NoUISlider: jQuery Range Slider - http://refreshless.com/nouislider/
 
 ## Hosting
 
