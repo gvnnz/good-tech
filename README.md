@@ -86,3 +86,4 @@ Interesting technologies.
 ## Maintenance
 
 * Decrap: Remove crapware with ease - http://www.decrap.org/
+* Botscout: prevents bots and spam (with API) - http://botscout.com/
