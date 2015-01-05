@@ -4,7 +4,7 @@ good-tech
 Interesting technologies.
 
 
-## JS
+## Javascript
 
 * Coffea: event-based IRC client library - https://github.com/caffeinery/coffea
 * Pixi.js: 2D webGL renderer with canvas fallback - http://www.pixijs.com/
@@ -62,9 +62,9 @@ Interesting technologies.
 
 ## Java
 
-* Vaadin - thinking of U and I - https://vaadin.com
+* Vaadin: thinking of U and I - https://vaadin.com
 * Spring Boot - http://projects.spring.io/spring-boot
-* Activiti - Workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
+* Activiti: workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
 
 ## Analysis
 
@@ -73,7 +73,7 @@ Interesting technologies.
 ## Audio
 
 * Imtranslator: text-to-speech app - http://imtranslator.net/translate-and-speak/
-* Ispeech - text-to-speech app - http://www.ispeech.org/text.to.speech
+* Ispeech: text-to-speech app - http://www.ispeech.org/text.to.speech
 
 # Video
 
@@ -81,7 +81,7 @@ Interesting technologies.
 
 ## Frameworks
 
-* Flakes: - Admin UI & template framework - http://getflakes.com/
+* Flakes: Admin UI & template framework - http://getflakes.com/
 
 ## Maintenance
 
