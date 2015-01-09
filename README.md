@@ -60,6 +60,7 @@ Interesting technologies.
 * Vagrant - https://www.vagrantup.com/
 * Newrelic - http://newrelic.com/
 * Packer: create identical machine images for multiple platforms - https://www.packer.io/
+* [box.scotch.io](https://box.scotch.io/) - a Vagrant LAMP stack that just works
 
 ## Java
 
