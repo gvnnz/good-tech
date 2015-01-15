@@ -85,6 +85,10 @@ Interesting technologies.
 
 * Flakes: Admin UI & template framework - http://getflakes.com/
 
+# Docs
+
+## [jsonresume](https://jsonresume.org/) - JSON-based standard for resumes
+
 ## Maintenance
 
 * Decrap: Remove crapware with ease - http://www.decrap.org/
