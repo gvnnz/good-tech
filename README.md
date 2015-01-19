@@ -87,7 +87,7 @@ Interesting technologies.
 
 # Docs
 
-## [jsonresume](https://jsonresume.org/) - JSON-based standard for resumes
+* [jsonresume](https://jsonresume.org/) - JSON-based standard for resumes
 
 ## Maintenance
 
