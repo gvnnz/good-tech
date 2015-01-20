@@ -40,7 +40,7 @@ Interesting technologies.
 * Foundation: frontend framework - http://foundation.zurb.com/
 * Clippy: CSS clip generator - http://bennettfeely.com/clippy/
 * Susy: Responsive layout toolkit for Sass - https://github.com/ericam/susy/
-* (Frameless)[http://framelessgrid.com/] - frameless grid system
+* [Frameless](http://framelessgrid.com/) - frameless grid system
 
 ## Testing 
 
