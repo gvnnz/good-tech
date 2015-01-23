@@ -27,6 +27,7 @@ Interesting technologies.
 * Angular-translate: i18n in your Angular apps, made easy - https://github.com/angular-translate/angular-translate
 * [NoUISlider](http://refreshless.com/nouislider/) - jQuery Range Slider
 * [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
+* [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
 
 ## Hosting
 
