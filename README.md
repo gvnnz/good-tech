@@ -1,7 +1,7 @@
 good-tech
 =========
 
-Interesting technologies.
+The big list of interesting technologies, constantly under development.
 
 
 ## Javascript
