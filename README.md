@@ -105,6 +105,6 @@ The big list of interesting technologies, constantly under development.
 * Decrap: Remove crapware with ease - http://www.decrap.org/
 * Botscout: prevents bots and spam (with API) - http://botscout.com/
 
-## Operating Systems
+## OSes
 
 * [trash-cli](https://github.com/andreafrancia/trash-cli) - command line interface to the freedesktop.org trashcan
