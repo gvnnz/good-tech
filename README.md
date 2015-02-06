@@ -9,7 +9,6 @@ The big list of interesting technologies, constantly under development.
 * Pixi.js: 2D webGL renderer with canvas fallback - http://www.pixijs.com/
 * PerfBar: JS benchmarks - https://github.com/lafikl/perfBar
 * RequireJS: asynchronous module loader - http://requirejs.org/
-* Jquery.smoothState: smooth transitions - https://github.com/weblinc/jquery.smoothState.js
 * Async.js: functions for working with asynchronous JavaScript - https://github.com/caolan/async
 * Phaser: 2D game framework for HTML5 games - http://phaser.io/
 * P2.js: 2D physics library - http://schteppe.github.io/p2.js/
@@ -22,9 +21,13 @@ The big list of interesting technologies, constantly under development.
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
 * Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
-* [NoUISlider](http://refreshless.com/nouislider/) - jQuery Range Slider
 * [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
+
+### JQuery
+
+* [NoUISlider](http://refreshless.com/nouislider/) - jQuery Range Slider
+* [Jquery.smoothState](https://github.com/weblinc/jquery.smoothState.js) - smooth transitions
 
 ### Angular
 
