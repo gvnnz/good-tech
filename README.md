@@ -3,7 +3,6 @@ good-tech
 
 The big list of interesting technologies, constantly under development.
 
-
 ## Javascript
 
 * Coffea: event-based IRC client library - https://github.com/caffeinery/coffea
@@ -15,7 +14,6 @@ The big list of interesting technologies, constantly under development.
 * Phaser: 2D game framework for HTML5 games - http://phaser.io/
 * P2.js: 2D physics library - http://schteppe.github.io/p2.js/
 * Spin.js: beautiful loading spinners - http://fgnass.github.io/spin.js/
-* Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
 * Three.js: JavaScript 3D library - http://threejs.org/
 * Moment.js: dates in javascript - http://momentjs.com/
 * CreateJS: suite of libs for rich, interactive HTML5 experiences - http://www.createjs.com/#!/CreateJS
@@ -24,10 +22,15 @@ The big list of interesting technologies, constantly under development.
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
 * Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
-* Angular-translate: i18n in your Angular apps, made easy - https://github.com/angular-translate/angular-translate
 * [NoUISlider](http://refreshless.com/nouislider/) - jQuery Range Slider
 * [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
+
+### Angular
+
+* Angular-translate: i18n in your Angular apps, made easy - https://github.com/angular-translate/angular-translate
+* Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
+* [ngHtmlCompile](https://github.com/francisbouvier/ng_html_compile) - a simple directive to bind and compile an Html fragment
 
 ## Hosting
 
@@ -43,6 +46,7 @@ The big list of interesting technologies, constantly under development.
 * Susy: Responsive layout toolkit for Sass - https://github.com/ericam/susy/
 * [Frameless](http://framelessgrid.com/) - frameless grid system
 * [Webpagetest](http://www.webpagetest.org/) - test a website's performance
+* [loadCSS](https://github.com/filamentgroup/loadCSS) - a function for loading CSS asynchronously
 
 ## Testing 
 
