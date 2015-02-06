@@ -82,6 +82,7 @@ The big list of interesting technologies, constantly under development.
 ## Video
 
 * Unsplash: free (do whatever you want) high-resolution photos - https://unsplash.com/
+* [Colourlovers](http://www.colourlovers.com) - color palettes
 
 ## Frameworks
 
