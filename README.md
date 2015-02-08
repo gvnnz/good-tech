@@ -104,6 +104,7 @@ The big list of interesting technologies, constantly under development.
 
 * Decrap: Remove crapware with ease - http://www.decrap.org/
 * Botscout: prevents bots and spam (with API) - http://botscout.com/
+* [NCurses Disk Usage](http://dev.yorhel.nl/ncdu) - disk usage analyzer with an ncurses interface
 
 ## OSes
 
