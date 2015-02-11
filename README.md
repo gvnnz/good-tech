@@ -86,6 +86,7 @@ The big list of interesting technologies, constantly under development.
 
 * Imtranslator: text-to-speech app - http://imtranslator.net/translate-and-speak/
 * Ispeech: text-to-speech app - http://www.ispeech.org/text.to.speech
+* [Iannix](http://www.iannix.org/) - a graphical open-source sequencer for digital art
 
 ## Video
 
