@@ -23,6 +23,7 @@ The big list of interesting technologies, constantly under development.
 * Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
 * [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
+* [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
 
 ### JQuery
 
