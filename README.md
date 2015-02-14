@@ -32,13 +32,13 @@ The big list of interesting technologies, constantly under development.
 
 ### Angular
 
-* Angular-translate: i18n in your Angular apps, made easy - https://github.com/angular-translate/angular-translate
-* Angular Loading Bar - http://chieffancypants.github.io/angular-loading-bar
+* [Angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy - 
+* [Angular Loading Bar](http://chieffancypants.github.io/angular-loading-bar) 
 * [ngHtmlCompile](https://github.com/francisbouvier/ng_html_compile) - a simple directive to bind and compile an Html fragment
 
 ## Hosting
 
-* Imgix: hosted imaging infrastructure - http://www.imgix.com/
+* [Imgix](http://www.imgix.com/) - hosted imaging infrastructure
 
 ## CSS
 
@@ -82,7 +82,7 @@ The big list of interesting technologies, constantly under development.
 
 ## Analysis
 
-* CSSstats: CSS insights - http://cssstats.com/
+* [CSSstats](http://cssstats.com/) - CSS insights
 
 ## Audio
 
@@ -92,7 +92,7 @@ The big list of interesting technologies, constantly under development.
 
 ## Video
 
-* Unsplash: free (do whatever you want) high-resolution photos - https://unsplash.com/
+* [Unsplash](https://unsplash.com/) - free (do whatever you want) high-resolution photos
 * [Colourlovers](http://www.colourlovers.com) - color palettes
 
 ## Frameworks
