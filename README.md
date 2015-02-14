@@ -32,7 +32,7 @@ The big list of interesting technologies, constantly under development.
 
 ### Angular
 
-* [Angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy - 
+* [Angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy 
 * [Angular Loading Bar](http://chieffancypants.github.io/angular-loading-bar) 
 * [ngHtmlCompile](https://github.com/francisbouvier/ng_html_compile) - a simple directive to bind and compile an Html fragment
 
@@ -64,7 +64,6 @@ The big list of interesting technologies, constantly under development.
 * [Catch](https://github.com/philsquared/Catch) - C++ framework for unit-tests
 * [Saucelabs](https://saucelabs.com/) - automated testing in the cloud for CI
 * [Zombie.js](https://github.com/assaf/zombie) - headless browser testing using node.js
-* [JSONPlaceholder ](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 
 ## Deploy, dev
 
@@ -73,6 +72,8 @@ The big list of interesting technologies, constantly under development.
 * Newrelic - http://newrelic.com/
 * Packer: create identical machine images for multiple platforms - https://www.packer.io/
 * [box.scotch.io](https://box.scotch.io/) - a Vagrant LAMP stack that just works
+* [placehold.it](http://placehold.it/) - a quick and simple image placeholder service
+* * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 
 ## Java
 
