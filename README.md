@@ -61,9 +61,10 @@ The big list of interesting technologies, constantly under development.
 * Port25 email scanner: email authentication results and SpamAssassin score -  http://www.port25.com/support/authentication-center/
 * Travis.ci: continuous integration service - https://travis-ci.org/
 * RWDPerf: performance testing for Responsive web design websites - https://github.com/lafikl/RWDPerf
-* Catch: C++ framework for unit-tests - https://github.com/philsquared/Catch
-* Saucelabs: automated testing in the cloud for CI - https://saucelabs.com/
-* Zombie.js: headless browser testing using node.js - https://github.com/assaf/zombie
+* [Catch](https://github.com/philsquared/Catch) - C++ framework for unit-tests
+* [Saucelabs](https://saucelabs.com/) - automated testing in the cloud for CI
+* [Zombie.js](https://github.com/assaf/zombie) - headless browser testing using node.js
+* [JSONPlaceholder ](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 
 ## Deploy, dev
 
