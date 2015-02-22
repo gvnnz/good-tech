@@ -87,8 +87,8 @@ The big list of interesting technologies, constantly under development.
 
 ## Audio
 
-* Imtranslator: text-to-speech app - http://imtranslator.net/translate-and-speak/
-* Ispeech: text-to-speech app - http://www.ispeech.org/text.to.speech
+* [Imtranslator](http://imtranslator.net/translate-and-speak/) - text-to-speech app
+* [Ispeech](http://www.ispeech.org/text.to.speech) - text-to-speech app
 * [Iannix](http://www.iannix.org/) - a graphical open-source sequencer for digital art
 
 ## Video
@@ -107,8 +107,8 @@ The big list of interesting technologies, constantly under development.
 
 ## Maintenance
 
-* Decrap: Remove crapware with ease - http://www.decrap.org/
-* Botscout: prevents bots and spam (with API) - http://botscout.com/
+* [Decrap](http://www.decrap.org/) - remove crapware with ease
+* [Botscout](http://botscout.com/) - prevents bots and spam (with API)
 * [NCurses Disk Usage](http://dev.yorhel.nl/ncdu) - disk usage analyzer with an ncurses interface
 
 ## OSes
