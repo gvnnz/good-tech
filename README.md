@@ -73,7 +73,7 @@ The big list of interesting technologies, constantly under development.
 * Packer: create identical machine images for multiple platforms - https://www.packer.io/
 * [box.scotch.io](https://box.scotch.io/) - a Vagrant LAMP stack that just works
 * [placehold.it](http://placehold.it/) - a quick and simple image placeholder service
-* * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 
 ## Java
 
@@ -114,3 +114,7 @@ The big list of interesting technologies, constantly under development.
 ## OSes
 
 * [trash-cli](https://github.com/andreafrancia/trash-cli) - command line interface to the freedesktop.org trashcan
+
+## CMD
+
+* [jq](http://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
