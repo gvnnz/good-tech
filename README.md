@@ -39,11 +39,7 @@ The big list of interesting technologies, constantly under development.
 * [Angular Loading Bar](http://chieffancypants.github.io/angular-loading-bar) 
 * [ngHtmlCompile](https://github.com/francisbouvier/ng_html_compile) - a simple directive to bind and compile an Html fragment
 
-## Hosting
-
-* [Imgix](http://www.imgix.com/) - hosted imaging infrastructure
-
-## CSS
+### CSS
 
 * Pure: responsive CSS modules - http://purecss.io
 * Bootstrap: frontend framework - http://getbootstrap.com/
@@ -54,6 +50,10 @@ The big list of interesting technologies, constantly under development.
 * [Frameless](http://framelessgrid.com/) - frameless grid system
 * [Webpagetest](http://www.webpagetest.org/) - test a website's performance
 * [loadCSS](https://github.com/filamentgroup/loadCSS) - a function for loading CSS asynchronously
+
+## Hosting
+
+* [Imgix](http://www.imgix.com/) - hosted imaging infrastructure
 
 ## Testing 
 
