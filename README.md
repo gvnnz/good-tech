@@ -3,7 +3,9 @@ good-tech
 
 The big list of interesting technologies, constantly under development.
 
-## Javascript
+## Web development
+
+### Javascript
 
 * Coffea: event-based IRC client library - https://github.com/caffeinery/coffea
 * Pixi.js: 2D webGL renderer with canvas fallback - http://www.pixijs.com/
@@ -24,6 +26,7 @@ The big list of interesting technologies, constantly under development.
 * [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
 * [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
+* [Squire](http://neilj.github.io/Squire/) - the <textarea> of the future
 
 ### JQuery
 
