@@ -28,12 +28,12 @@ The big list of interesting technologies, constantly under development.
 * [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
 * [Squire](http://neilj.github.io/Squire/) - the <textarea> of the future
 
-### JQuery
+#### JQuery
 
 * [NoUISlider](http://refreshless.com/nouislider/) - jQuery Range Slider
 * [Jquery.smoothState](https://github.com/weblinc/jquery.smoothState.js) - smooth transitions
 
-### Angular
+#### Angular
 
 * [Angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy 
 * [Angular Loading Bar](http://chieffancypants.github.io/angular-loading-bar) 
