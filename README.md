@@ -26,7 +26,7 @@ The big list of interesting technologies, constantly under development.
 * [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
 * [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
-* [Squire](http://neilj.github.io/Squire/) - the <textarea> of the future
+* [Squire](http://neilj.github.io/Squire/) - the `<textarea>` of the future
 * [Bowser](https://github.com/ded/bowser) - a browser detector
 * [Conditionizr](http://conditionizr.com/) - detecting front-end environments and conditionally loading assets
 
