@@ -27,6 +27,7 @@ The big list of interesting technologies, constantly under development.
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
 * [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
 * [Squire](http://neilj.github.io/Squire/) - the <textarea> of the future
+* [bowser](https://github.com/ded/bowser) - a browser detector
 
 #### JQuery
 
