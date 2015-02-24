@@ -53,6 +53,9 @@ The big list of interesting technologies, constantly under development.
 * [Webpagetest](http://www.webpagetest.org/) - test a website's performance
 * [loadCSS](https://github.com/filamentgroup/loadCSS) - a function for loading CSS asynchronously
 
+### HTML
+* [HTML5 Boilerplate](https://html5boilerplate.com/) - the web’s most popular front-end template
+
 ## Hosting
 
 * [Imgix](http://www.imgix.com/) - hosted imaging infrastructure
