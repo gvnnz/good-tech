@@ -103,6 +103,7 @@ The big list of interesting technologies, constantly under development.
 
 * [Unsplash](https://unsplash.com/) - free (do whatever you want) high-resolution photos
 * [Colourlovers](http://www.colourlovers.com) - color palettes
+* [Preloaders.net](http://preloaders.net/) - loading GIF & APNG (AJAX loaders) generator
 
 ## Frameworks
 
