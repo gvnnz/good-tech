@@ -98,6 +98,7 @@ The big list of interesting technologies, constantly under development.
 * [Imtranslator](http://imtranslator.net/translate-and-speak/) - text-to-speech app
 * [Ispeech](http://www.ispeech.org/text.to.speech) - text-to-speech app
 * [Iannix](http://www.iannix.org/) - a graphical open-source sequencer for digital art
+* [Vintage synths](http://www.vintagesynth.com/) - vintage synth explorer
 
 ## Video
 
