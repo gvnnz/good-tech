@@ -29,6 +29,7 @@ The big list of interesting technologies, constantly under development.
 * [Squire](http://neilj.github.io/Squire/) - the `<textarea>` of the future
 * [Bowser](https://github.com/ded/bowser) - a browser detector
 * [Conditionizr](http://conditionizr.com/) - detecting front-end environments and conditionally loading assets
+* [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
 #### JQuery
 
