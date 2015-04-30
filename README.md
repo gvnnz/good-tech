@@ -129,3 +129,7 @@ The big list of interesting technologies, constantly under development.
 ## CMD
 
 * [jq](http://stedolan.github.io/jq/) - a lightweight and flexible command-line JSON processor
+
+## Enterpreneurship
+
+* [toggl](https://www.toggl.com/) - time tracker
