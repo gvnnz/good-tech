@@ -133,3 +133,7 @@ The big list of interesting technologies, constantly under development.
 ## Enterpreneurship
 
 * [toggl](https://www.toggl.com/) - time tracker
+
+## Converters
+
+* [Unicode Code Converter](http://rishida.net/tools/conversion/)
