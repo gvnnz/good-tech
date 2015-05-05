@@ -74,6 +74,7 @@ The big list of interesting technologies, constantly under development.
 * [Saucelabs](https://saucelabs.com/) - automated testing in the cloud for CI
 * [Zombie.js](https://github.com/assaf/zombie) - headless browser testing using node.js
 * [Mocky.io](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
+* [Mockaroo](https://www.mockaroo.com/) - Realistic data generator
 
 ## Deploy, dev
 
