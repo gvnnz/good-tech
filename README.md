@@ -85,6 +85,7 @@ The big list of interesting technologies, constantly under development.
 * Newrelic - http://newrelic.com/
 * Packer: create identical machine images for multiple platforms - https://www.packer.io/
 * [box.scotch.io](https://box.scotch.io/) - a Vagrant LAMP stack that just works
+* [PHPMD](http://phpmd.org/) - PHP Mess Detector
 
 ## Java
 
