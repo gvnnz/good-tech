@@ -75,7 +75,9 @@ The big list of interesting technologies, constantly under development.
 * [Zombie.js](https://github.com/assaf/zombie) - headless browser testing using node.js
 * [Mocky.io](http://www.mocky.io/) - Mock your HTTP responses to test your REST API
 * [Mockaroo](https://www.mockaroo.com/) - Realistic data generator
-
+* [placehold.it](http://placehold.it/) - a quick and simple image placeholder service
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
+* 
 ## Deploy, dev
 
 * Chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
@@ -83,8 +85,6 @@ The big list of interesting technologies, constantly under development.
 * Newrelic - http://newrelic.com/
 * Packer: create identical machine images for multiple platforms - https://www.packer.io/
 * [box.scotch.io](https://box.scotch.io/) - a Vagrant LAMP stack that just works
-* [placehold.it](http://placehold.it/) - a quick and simple image placeholder service
-* [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 
 ## Java
 
