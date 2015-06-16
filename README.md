@@ -118,6 +118,7 @@ The big list of interesting technologies, constantly under development.
 
 * [jsonresume](https://jsonresume.org/) - JSON-based standard for resumes
 * [swagger.io](http://swagger.io/) - simple yet powerful representation of your RESTful API
+* [Dillinger](http://dillinger.io/) - online Markdown editor
 
 ## Maintenance
 
