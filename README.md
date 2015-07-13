@@ -138,6 +138,7 @@ The big list of interesting technologies, constantly under development.
 
 * [toggl](https://www.toggl.com/) - time tracker
 
-## Converters
+## Tools
 
 * [Unicode Code Converter](http://rishida.net/tools/conversion/)
+* [Random.org](https://www.random.org/) - true random number service
