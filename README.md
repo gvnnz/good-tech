@@ -142,3 +142,4 @@ The big list of interesting technologies, constantly under development.
 
 * [Unicode Code Converter](http://rishida.net/tools/conversion/)
 * [Random.org](https://www.random.org/) - true random number service
+* [Word2cleanhtml](http://word2cleanhtml.com/) - ConvertWord documents to Clean HTML
