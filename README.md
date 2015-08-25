@@ -77,7 +77,8 @@ The big list of interesting technologies, constantly under development.
 * [Mockaroo](https://www.mockaroo.com/) - Realistic data generator
 * [placehold.it](http://placehold.it/) - a quick and simple image placeholder service
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
-* 
+* [Mocha](https://mochajs.org) - JavaScript test framework running on Node.js
+
 ## Deploy, dev
 
 * Chef: automate build, deploy, and manage  infrastructure - http://www.getchef.com/
