@@ -59,6 +59,18 @@ The big list of interesting technologies, constantly under development.
 ### HTML
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - the web’s most popular front-end template
 
+## Development
+
+### Java
+
+* Vaadin: thinking of U and I - https://vaadin.com
+* Spring Boot - http://projects.spring.io/spring-boot
+* Activiti: workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
+
+## Security
+
+* [Let's Encrypt](https://letsencrypt.org) - a new free, automated, and open certificate authority
+
 ## Hosting
 
 * [Imgix](http://www.imgix.com/) - hosted imaging infrastructure
@@ -89,12 +101,6 @@ The big list of interesting technologies, constantly under development.
 * Packer: create identical machine images for multiple platforms - https://www.packer.io/
 * [box.scotch.io](https://box.scotch.io/) - a Vagrant LAMP stack that just works
 * [PHPMD](http://phpmd.org/) - PHP Mess Detector
-
-## Java
-
-* Vaadin: thinking of U and I - https://vaadin.com
-* Spring Boot - http://projects.spring.io/spring-boot
-* Activiti: workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
 
 ## Analysis
 
