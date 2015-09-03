@@ -32,6 +32,7 @@ The big list of interesting technologies, constantly under development.
 * [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 * [Browserify](http://browserify.org/) - dependency manager
 * [Webpack](http://webpack.github.io/) - dependency manager
+* [Dojo](https://dojotoolkit.org/) - open source modular JavaScript library
 
 #### JQuery
 
