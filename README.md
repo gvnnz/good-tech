@@ -139,7 +139,8 @@ The big list of interesting technologies, constantly under development.
 
 ## Enterpreneurship
 
-* [toggl](https://www.toggl.com/) - time tracker
+* [Toggl](https://www.toggl.com/) - time tracker
+* [Hipchat](https://www.hipchat.com/) - group and private chat, file sharing and integrations
 
 ## Tools
 
