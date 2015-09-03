@@ -32,7 +32,6 @@ The big list of interesting technologies, constantly under development.
 * [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 * [Browserify](http://browserify.org/) - dependency manager
 * [Webpack](http://webpack.github.io/) - dependency manager
-* [YUI](http://yuilibrary.com/) -  free, open source JavaScript and CSS library for building richly interactive web applications
 
 #### JQuery
 
