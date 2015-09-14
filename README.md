@@ -34,6 +34,7 @@ The big list of interesting technologies, constantly under development.
 * [Webpack](http://webpack.github.io/) - dependency manager
 * [Dojo](https://dojotoolkit.org/) - open source modular JavaScript library
 * [React](http://facebook.github.io/react/) - a JavaScript library for building user interfaces
+* [Babel](https://babeljs.io/) - a compiler for writing next generation JavaScript
 
 #### JQuery
 
