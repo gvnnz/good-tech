@@ -64,10 +64,20 @@ The big list of interesting technologies, constantly under development.
 
 ## Development
 
-### Java
+### Multimedia
+
+* [GLFW](http://www.glfw.org/) - Open Source, multi-platform library for creating windows with OpenGL contexts and receiving input and events.
+
+### MVC 
 
 * Vaadin: thinking of U and I - https://vaadin.com
+
+### Scaffolding
+
 * Spring Boot - http://projects.spring.io/spring-boot
+
+### Business management
+
 * Activiti: workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
 
 ## Security
