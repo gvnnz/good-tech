@@ -122,6 +122,7 @@ The big list of interesting technologies, constantly under development.
 ## Analysis
 
 * [CSSstats](http://cssstats.com/) - CSS insights
+* [Guff](https://github.com/silentbicycle/guff) - command-line plot device
 
 ## Audio
 
