@@ -5,6 +5,8 @@ The big list of interesting technologies, constantly under development.
 
 ## Web development
 
+* [Hapi](http://hapijs.com/) - A rich framework for building applications and services
+
 ### Javascript
 
 * Coffea: event-based IRC client library - https://github.com/caffeinery/coffea
