@@ -107,7 +107,8 @@ The big list of interesting technologies, constantly under development.
 * [placehold.it](http://placehold.it/) - a quick and simple image placeholder service
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - fake Online REST API for Testing and Prototyping
 * [Mocha](https://mochajs.org) - JavaScript test framework running on Node.js
-* [Coveralls](https://coveralls.io/) - shows what parts of  your code aren’t covered by your test suite
+* [Coveralls](https://coveralls.io/) - shows what parts of your code aren’t covered by your test suite
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) - fuzz testing tool
 
 ## Deploy, dev
 
