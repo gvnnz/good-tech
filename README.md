@@ -64,6 +64,8 @@ The big list of interesting technologies, constantly under development.
 ### HTML
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - the web’s most popular front-end template
 * [Jade4j](https://github.com/neuland/jade4j) - a jade implementation written in Java
+* [spring-jade4j](https://github.com/neuland/spring-jade4j) - a Spring Integration for Jade4J
+
 
 ## Development
 
