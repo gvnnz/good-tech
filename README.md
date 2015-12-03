@@ -85,6 +85,10 @@ The big list of interesting technologies, constantly under development.
 
 * Activiti: workflow and Business Process Management (BPM) Platform - http://www.activiti.org/ - https://activiti.alfresco.com
 
+### Compilers
+
+* [Closure Compiler](https://developers.google.com/closure/compiler/) - a tool for making JavaScript download and run faster
+
 ## Security
 
 * [Let's Encrypt](https://letsencrypt.org) - a new free, automated, and open certificate authority
