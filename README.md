@@ -88,6 +88,7 @@ The big list of interesting technologies, constantly under development.
 ## Security
 
 * [Let's Encrypt](https://letsencrypt.org) - a new free, automated, and open certificate authority
+* [zxcvbn](https://github.com/dropbox/zxcvbn) - realistic password strength estimation
 
 ## Hosting
 
