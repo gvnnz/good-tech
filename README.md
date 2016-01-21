@@ -7,7 +7,17 @@ The big list of interesting technologies, constantly under development.
 
 * [Hapi](http://hapijs.com/) - A rich framework for building applications and services
 
-### Javascript
+### Javascript MV* frameworks/libraries
+
+* [TodoMVC](http://todomvc.com/) - helping you select an MV* framework
+* [Backbone](http://backbonejs.org/) - give your JS App some Backbone with Models, Views, Collections, and Events
+* [Marionette](http://marionettejs.com/) - marionette simplifies your Backbone application code with robust views and architecture solutions
+* [React](http://facebook.github.io/react/) - a JavaScript library for building user interfaces
+* [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
+* [Dojo](https://dojotoolkit.org/) - open source modular JavaScript library
+* [Ember](http://emberjs.com/) - a framework for creating ambitious web applications
+
+### Javascript libraries
 
 * Coffea: event-based IRC client library - https://github.com/caffeinery/coffea
 * Pixi.js: 2D webGL renderer with canvas fallback - http://www.pixijs.com/
@@ -25,17 +35,13 @@ The big list of interesting technologies, constantly under development.
 * D3.js: a JavaScript visualization library for HTML and SVG - http://d3js.org/
 * Socket.io: real-time bidirectional event-based communication - http://socket.io/
 * Slick: the last carousel you'll ever need - http://kenwheeler.github.io/slick/
-* [Knockout.js](http://knockoutjs.com/) - JavaScript implementation of the Model-View-ViewModel 
 * [Picturefill](http://scottjehl.github.io/picturefill/) - a responsive image polyfill
-* [TodoMVC](http://todomvc.com/) - Helping you select an MV* framework
 * [Squire](http://neilj.github.io/Squire/) - the `<textarea>` of the future
 * [Bowser](https://github.com/ded/bowser) - a browser detector
 * [Conditionizr](http://conditionizr.com/) - detecting front-end environments and conditionally loading assets
 * [Textures.js](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 * [Browserify](http://browserify.org/) - dependency manager
 * [Webpack](http://webpack.github.io/) - dependency manager
-* [Dojo](https://dojotoolkit.org/) - open source modular JavaScript library
-* [React](http://facebook.github.io/react/) - a JavaScript library for building user interfaces
 * [Babel](https://babeljs.io/) - a compiler for writing next generation JavaScript
 * [Backgridjs](http://backgridjs.com/) - a set of components for building semantic and easily stylable data grid widgets
 
@@ -63,10 +69,10 @@ The big list of interesting technologies, constantly under development.
 * [loadCSS](https://github.com/filamentgroup/loadCSS) - a function for loading CSS asynchronously
 
 ### HTML
+
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - the web’s most popular front-end template
 * [Jade4j](https://github.com/neuland/jade4j) - a jade implementation written in Java
 * [spring-jade4j](https://github.com/neuland/spring-jade4j) - a Spring Integration for Jade4J
-
 
 ## Development
 
