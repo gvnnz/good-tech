@@ -181,6 +181,7 @@ The big list of interesting technologies, constantly under development.
 * [Toggl](https://www.toggl.com/) - time tracker
 * [Hipchat](https://www.hipchat.com/) - group and private chat, file sharing and integrations
 * [Appear.in](https://appear.in/) - video conversations with up to 8 people for free
+* [Open Space Technology](https://en.wikipedia.org/wiki/Open_Space_Technology) 
 
 ## Tools
 
