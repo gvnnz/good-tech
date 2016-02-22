@@ -76,6 +76,10 @@ The big list of interesting technologies, constantly under development.
 
 ## Development
 
+### Editors, IDE
+
+* [Slap editor](https://github.com/slap-editor/slap)
+
 ### Multimedia
 
 * [GLFW](http://www.glfw.org/) - Open Source, multi-platform library for creating windows with OpenGL contexts and receiving input and events.
