@@ -84,7 +84,7 @@ The big list of interesting technologies, constantly under development.
 
 * [GLFW](http://www.glfw.org/) - Open Source, multi-platform library for creating windows with OpenGL contexts and receiving input and events.
 
-### MVC 
+### Frameworks 
 
 * Vaadin: thinking of U and I - https://vaadin.com
 
@@ -99,6 +99,10 @@ The big list of interesting technologies, constantly under development.
 ### Compilers
 
 * [Closure Compiler](https://developers.google.com/closure/compiler/) - a tool for making JavaScript download and run faster
+
+### Math
+
+* [QuantLib](http://quantlib.org/) - a free/open-source library for quantitative finance
 
 ## Security
 
