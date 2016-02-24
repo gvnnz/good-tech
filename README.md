@@ -49,7 +49,8 @@ The big list of interesting technologies, constantly under development.
 
 * [NoUISlider](http://refreshless.com/nouislider/) - jQuery Range Slider
 * [Jquery.smoothState](https://github.com/weblinc/jquery.smoothState.js) - smooth transitions
-
+* [FormValidation](http://formvalidation.io/) - best jQuery plugin to validate form fields
+* 
 #### Angular
 
 * [Angular-translate](https://github.com/angular-translate/angular-translate) - i18n in your Angular apps, made easy 
