@@ -110,9 +110,10 @@ The big list of interesting technologies, constantly under development.
 * [Let's Encrypt](https://letsencrypt.org) - a new free, automated, and open certificate authority
 * [zxcvbn](https://github.com/dropbox/zxcvbn) - realistic password strength estimation
 
-## Hosting
+## Hosting, networking
 
 * [Imgix](http://www.imgix.com/) - hosted imaging infrastructure
+* [Pickacloud](https://pikacloud.com/) - HTTP and HTTPS Load balancer for Digitalocean droplets
 
 ## Testing 
 
